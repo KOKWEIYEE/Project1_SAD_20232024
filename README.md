@@ -12,5 +12,5 @@ DolphinLearn Hub represents a transformative solution designed to propel Dolphin
 |MUHAMMAD AMMAR BIN MOHAMAD IDHAM | A23CS0247 |
 
 ### Phase 1: Project Proposal and Planning
-<p> Kanban board link: <a href="https://github.com/users/KOKWEIYEE/projects/3">kanban board</a></p>
+<p> <a href="https://github.com/users/KOKWEIYEE/projects/3">Kanban Board Link</a></p>
 <p> Phase 1 - Project Proposal and Planning link:  <a href="https://github.com/users/KOKWEIYEE/projects/3">Project link</p>
