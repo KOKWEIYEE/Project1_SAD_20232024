@@ -13,4 +13,4 @@ DolphinLearn Hub represents a transformative solution designed to propel Dolphin
 
 ### Phase 1: Project Proposal and Planning
 <p> <a href="https://github.com/users/KOKWEIYEE/projects/3">Kanban Board Link</a></p>
-<p> <a href="https://github.com/users/KOKWEIYEE/projects/3">Phase 1 - Project Proposal and Planning link</p>
+<p> <a href="https://github.com/KOKWEIYEE/Project1_SAD_20232024/blob/main/Phase1/SAD%20Project%20-%20Phase%201_%20Sec%2008%20Group%207.pdf">Phase 1 - Project Proposal and Planning link</p>
