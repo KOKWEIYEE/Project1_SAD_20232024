@@ -17,3 +17,7 @@ DolphinLearn Hub represents a transformative solution designed to propel Dolphin
 
 ### Phase 2: Information System Gathering and Requirement
 <p> <a href="https://github.com/KOKWEIYEE/Project1_SAD_20232024/blob/main/Phase%202/SAD%20Project%20-%20Phase%202_%20Sec%2008%20Group%207.pdf">Phase 2 - Information System Gathering and Requirement</p>
+
+### Phase 3
+
+<p> <a href="https://www.figma.com/proto/Hu50K18xIOEz3YbDeCn8TU/wireframe?node-id=0-1&t=619Zb06lvpGgsuJ4-1"> Prototype Link</p>
